@@ -1,0 +1,8 @@
+E:\TPA\forca_FINAL\forca_FINAL\obj\Debug\forca_FINAL.csprojResolveAssemblyReference.cache
+E:\TPA\forca_FINAL\forca_FINAL\obj\Debug\forca_FINAL.MainForm.resources
+E:\TPA\forca_FINAL\forca_FINAL\obj\Debug\forca_FINAL.csproj.GenerateResource.Cache
+E:\TPA\forca_FINAL\forca_FINAL\bin\Debug\forca_FINAL.exe.config
+E:\TPA\forca_FINAL\forca_FINAL\bin\Debug\forca_FINAL.exe
+E:\TPA\forca_FINAL\forca_FINAL\bin\Debug\forca_FINAL.pdb
+E:\TPA\forca_FINAL\forca_FINAL\obj\Debug\forca_FINAL.exe
+E:\TPA\forca_FINAL\forca_FINAL\obj\Debug\forca_FINAL.pdb
