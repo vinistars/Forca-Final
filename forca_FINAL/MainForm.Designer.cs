@@ -143,7 +143,7 @@ namespace forca_FINAL
 			this.A.TabIndex = 3;
 			this.A.Text = "A";
 			this.A.UseVisualStyleBackColor = true;
-			this.A.Click += new System.EventHandler(this.AClick);
+			this.A.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// B
 			// 
@@ -153,7 +153,7 @@ namespace forca_FINAL
 			this.B.TabIndex = 4;
 			this.B.Text = "B";
 			this.B.UseVisualStyleBackColor = true;
-			this.B.Click += new System.EventHandler(this.BClick);
+			this.B.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// C
 			// 
@@ -163,7 +163,7 @@ namespace forca_FINAL
 			this.C.TabIndex = 5;
 			this.C.Text = "C";
 			this.C.UseVisualStyleBackColor = true;
-			this.C.Click += new System.EventHandler(this.CClick);
+			this.C.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// D
 			// 
@@ -173,7 +173,7 @@ namespace forca_FINAL
 			this.D.TabIndex = 6;
 			this.D.Text = "D";
 			this.D.UseVisualStyleBackColor = true;
-			this.D.Click += new System.EventHandler(this.DClick);
+			this.D.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// E
 			// 
@@ -183,7 +183,7 @@ namespace forca_FINAL
 			this.E.TabIndex = 7;
 			this.E.Text = "E";
 			this.E.UseVisualStyleBackColor = true;
-			this.E.Click += new System.EventHandler(this.EClick);
+			this.E.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// G
 			// 
@@ -193,7 +193,7 @@ namespace forca_FINAL
 			this.G.TabIndex = 8;
 			this.G.Text = "G";
 			this.G.UseVisualStyleBackColor = true;
-			this.G.Click += new System.EventHandler(this.GClick);
+			this.G.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// F
 			// 
@@ -203,7 +203,7 @@ namespace forca_FINAL
 			this.F.TabIndex = 9;
 			this.F.Text = "F";
 			this.F.UseVisualStyleBackColor = true;
-			this.F.Click += new System.EventHandler(this.FClick);
+			this.F.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// I
 			// 
@@ -213,7 +213,7 @@ namespace forca_FINAL
 			this.I.TabIndex = 10;
 			this.I.Text = "I";
 			this.I.UseVisualStyleBackColor = true;
-			this.I.Click += new System.EventHandler(this.IClick);
+			this.I.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// H
 			// 
@@ -224,7 +224,7 @@ namespace forca_FINAL
 			this.H.TabIndex = 11;
 			this.H.Text = "H";
 			this.H.UseVisualStyleBackColor = true;
-			this.H.Click += new System.EventHandler(this.HClick);
+			this.H.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// J
 			// 
@@ -234,7 +234,7 @@ namespace forca_FINAL
 			this.J.TabIndex = 12;
 			this.J.Text = "J";
 			this.J.UseVisualStyleBackColor = true;
-			this.J.Click += new System.EventHandler(this.JClick);
+			this.J.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// K
 			// 
@@ -244,7 +244,7 @@ namespace forca_FINAL
 			this.K.TabIndex = 13;
 			this.K.Text = "K";
 			this.K.UseVisualStyleBackColor = true;
-			this.K.Click += new System.EventHandler(this.KClick);
+			this.K.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// L
 			// 
@@ -254,7 +254,7 @@ namespace forca_FINAL
 			this.L.TabIndex = 14;
 			this.L.Text = "L";
 			this.L.UseVisualStyleBackColor = true;
-			this.L.Click += new System.EventHandler(this.LClick);
+			this.L.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// M
 			// 
@@ -264,7 +264,7 @@ namespace forca_FINAL
 			this.M.TabIndex = 15;
 			this.M.Text = "M";
 			this.M.UseVisualStyleBackColor = true;
-			this.M.Click += new System.EventHandler(this.MClick);
+			this.M.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// N
 			// 
@@ -274,7 +274,7 @@ namespace forca_FINAL
 			this.N.TabIndex = 16;
 			this.N.Text = "N";
 			this.N.UseVisualStyleBackColor = true;
-			this.N.Click += new System.EventHandler(this.NClick);
+			this.N.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// O
 			// 
@@ -284,7 +284,7 @@ namespace forca_FINAL
 			this.O.TabIndex = 17;
 			this.O.Text = "O";
 			this.O.UseVisualStyleBackColor = true;
-			this.O.Click += new System.EventHandler(this.OClick);
+			this.O.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// P
 			// 
@@ -294,7 +294,7 @@ namespace forca_FINAL
 			this.P.TabIndex = 18;
 			this.P.Text = "P";
 			this.P.UseVisualStyleBackColor = true;
-			this.P.Click += new System.EventHandler(this.PClick);
+			this.P.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// Q
 			// 
@@ -304,7 +304,7 @@ namespace forca_FINAL
 			this.Q.TabIndex = 19;
 			this.Q.Text = "Q";
 			this.Q.UseVisualStyleBackColor = true;
-			this.Q.Click += new System.EventHandler(this.QClick);
+			this.Q.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// R
 			// 
@@ -314,7 +314,7 @@ namespace forca_FINAL
 			this.R.TabIndex = 20;
 			this.R.Text = "R";
 			this.R.UseVisualStyleBackColor = true;
-			this.R.Click += new System.EventHandler(this.RClick);
+			this.R.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// U
 			// 
@@ -324,7 +324,7 @@ namespace forca_FINAL
 			this.U.TabIndex = 21;
 			this.U.Text = "U";
 			this.U.UseVisualStyleBackColor = true;
-			this.U.Click += new System.EventHandler(this.UClick);
+			this.U.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// T
 			// 
@@ -334,7 +334,7 @@ namespace forca_FINAL
 			this.T.TabIndex = 22;
 			this.T.Text = "T";
 			this.T.UseVisualStyleBackColor = true;
-			this.T.Click += new System.EventHandler(this.TClick);
+			this.T.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// S
 			// 
@@ -344,7 +344,7 @@ namespace forca_FINAL
 			this.S.TabIndex = 23;
 			this.S.Text = "S";
 			this.S.UseVisualStyleBackColor = true;
-			this.S.Click += new System.EventHandler(this.SClick);
+			this.S.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// V
 			// 
@@ -354,7 +354,7 @@ namespace forca_FINAL
 			this.V.TabIndex = 24;
 			this.V.Text = "V";
 			this.V.UseVisualStyleBackColor = true;
-			this.V.Click += new System.EventHandler(this.VClick);
+			this.V.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// Y
 			// 
@@ -364,7 +364,7 @@ namespace forca_FINAL
 			this.Y.TabIndex = 25;
 			this.Y.Text = "Y";
 			this.Y.UseVisualStyleBackColor = true;
-			this.Y.Click += new System.EventHandler(this.YClick);
+			this.Y.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// X
 			// 
@@ -374,7 +374,7 @@ namespace forca_FINAL
 			this.X.TabIndex = 26;
 			this.X.Text = "X";
 			this.X.UseVisualStyleBackColor = true;
-			this.X.Click += new System.EventHandler(this.XClick);
+			this.X.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// W
 			// 
@@ -384,7 +384,7 @@ namespace forca_FINAL
 			this.W.TabIndex = 27;
 			this.W.Text = "W";
 			this.W.UseVisualStyleBackColor = true;
-			this.W.Click += new System.EventHandler(this.WClick);
+			this.W.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// Z
 			// 
@@ -394,7 +394,7 @@ namespace forca_FINAL
 			this.Z.TabIndex = 28;
 			this.Z.Text = "Z";
 			this.Z.UseVisualStyleBackColor = true;
-			this.Z.Click += new System.EventHandler(this.ZClick);
+			this.Z.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// panel1
 			// 
@@ -429,6 +429,7 @@ namespace forca_FINAL
 			this.panel1.Name = "panel1";
 			this.panel1.Size = new System.Drawing.Size(783, 239);
 			this.panel1.TabIndex = 29;
+			this.panel1.Visible = false;
 			// 
 			// Ç
 			// 
@@ -438,7 +439,7 @@ namespace forca_FINAL
 			this.Ç.TabIndex = 29;
 			this.Ç.Text = "Ç";
 			this.Ç.UseVisualStyleBackColor = true;
-			this.Ç.Click += new System.EventHandler(this.ÇClick);
+			this.Ç.Click += new System.EventHandler(this.TeclaClick);
 			// 
 			// pictureBox1
 			// 
